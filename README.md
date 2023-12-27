@@ -7,3 +7,4 @@ vim /etc/ansible/hosts         :       To create an inventory[i.e information ab
                                        In some OS "vim" may not work.In that case either install vim using yum or any other command depending on the OS or find an 
                                        alternative
                                        
+   
